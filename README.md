@@ -1,28 +1,34 @@
-# So Simple Theme
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes/) -- by designer slash illustrator [Michael Rose](http://mademistakes.com).
 
-## Notable features:
+Photoshop:
 
-* Compatible with Jekyll 3 and GitHub Pages.
-* Responsive templates. Looks good on mobile, tablet, and desktop devices.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page](http://mmistakes.github.io/so-simple-theme/404.html) to get you started.
-* Basic [search capabilities](https://github.com/mathaywarduk/jekyll-search)
-* Support for Disqus Comments
+Go to File → Import → Video Frames to Layers.
 
-![screenshot of So Simple Theme](http://mmistakes.github.io/so-simple-theme/images/so-simple-theme-preview.jpg)
+This is where you can skip frames or things
 
-See a [live version of So Simple](http://mmistakes.github.io/so-simple-theme/) hosted on GitHub.
+Go to File → Export → Save for Web (Legacy)
 
----
+Choose gif
 
-## Getting Started
 
-So Simple takes advantage of Sass and data files to make customizing easier and requires Jekyll 3.x.
+Save it in
+C:\Users\Julius\Documents\GitHub\antools\assets\images\bait
 
-To learn how to install and use this theme check out the [Setup Guide](http://mmistakes.github.io/so-simple-theme/theme-setup/) for more information.
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mmistakes/so-simple-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+Your website is here: https://jss367.github.io/antools/articles/mirrors/
+
+
+This is how you want to link them:
+
+<img src='https://github.com/jss367/antools/blob/gh-pages-2.3.4/assets/images/cat.gif?raw=true' />
+
+![eagle]({{site.baseurl}}/assets/images/mirrors/eagle_looking_at_reflection.jpg "Picture of an eagle")
+
+
+
+Go from reddit post to downloadable video: https://viddit.red/
+
+
+Similar sites:
+
+https://avianenrichment.com/learn/emotional-needs/mental-stimulation/tool-use-in-parrots
