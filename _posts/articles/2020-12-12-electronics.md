@@ -39,6 +39,8 @@ This more to this gif I have but I only uploaded 20 seconds at the moment
 
 ## Dog imitating dog on TV
 
+This (and many others) clearly show that the dog recognizes the dog on the TV. This doesn't distinguish between a dog understanding it's a TV (i.e. that the dog it's seeing isn't present) vs a window, but it does show that a dog recognizes another in the absense of smell. This is evidence against the suggestion that some animals (or at least dogs) fail the mirror test because there is no scent of the dog. From visuals alone and no scent this dog is recognizing (and cutely immitating) another dog.
+
 > Note: Sped up 4X
 
 
