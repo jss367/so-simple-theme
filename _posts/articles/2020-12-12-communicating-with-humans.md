@@ -5,9 +5,7 @@ excerpt: "What can we learn about animals from how they communicate with humans"
 categories: articles
 tags: [Cat, Sign Language]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: feature2.jpg
 comments: true
 share: true
 ---
