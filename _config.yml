@@ -4,7 +4,7 @@ title: So Simple Theme
 locale: en_US
 description: A simple and clean responsive Jekyll theme for words and photos.
 logo: site-logo.png
-url: https://mmistakes.github.io/so-simple-theme
+url: https://animalsusingtools.com
 
 # Jekyll configuration
 
@@ -40,12 +40,12 @@ owner:
   avatar: michael-rose-photo.jpg
   email: michael@mademistakes.com
   disqus-shortname: sosimpletheme
-  twitter: mmistakes
+  twitter: jss367
   facebook: michaelrose
-  github: mmistakes
+  github: jss367
   stackexchange:
   linkedin:
-  instagram: mmistakes
+  instagram: jss367
   flickr:
   tumblr: mademistakes
   pinterest:
