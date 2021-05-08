@@ -5,7 +5,7 @@ excerpt: "Computers and Smartphones"
 categories: articles
 tags: [Cat, Bird, Sheep, Dog]
 image:
-  feature: so-simple-sample-image-1.jpg
+  feature: feature2.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 comments: true
