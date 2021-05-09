@@ -5,9 +5,7 @@ excerpt: "All the things needed to navigate a human-shaped world. Using public t
 categories: articles
 tags: [Pigeon, Deer, Crow, Dog]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: feature.jpg
 comments: true
 share: true
 ---

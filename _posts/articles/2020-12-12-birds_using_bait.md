@@ -5,9 +5,7 @@ excerpt: "Birds laying bait to attract fish"
 categories: articles
 tags: [Bird]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: feature.jpg
 comments: true
 share: true
 ---

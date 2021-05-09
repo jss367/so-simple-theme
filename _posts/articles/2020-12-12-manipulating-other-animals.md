@@ -5,9 +5,7 @@ excerpt: "Do you need a theory of mind to manipulate other animals?"
 categories: articles
 tags: [Cat]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: feature.jpg
 comments: true
 share: true
 ---

@@ -5,7 +5,7 @@ excerpt: "What can we learn about animals from how they communicate with humans"
 categories: articles
 tags: [Cat, Sign Language]
 image:
-  feature: feature2.jpg
+  feature: feature.jpg
 comments: true
 share: true
 ---

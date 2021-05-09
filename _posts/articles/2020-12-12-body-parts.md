@@ -5,9 +5,7 @@ excerpt: "Using ones own body doesn't count as a tool, but isn't it interesting 
 categories: articles
 tags: [Bird, Spider]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: feature.jpg
 comments: true
 share: true
 ---

@@ -5,7 +5,7 @@ excerpt: "My favorites!"
 categories: articles
 tags: [Object Permanence, Dog, Cat]
 image:
-  feature: feature2.jpg
+  feature: feature.jpg
 comments: true
 share: true
 ---

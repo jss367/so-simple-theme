@@ -5,9 +5,7 @@ excerpt: "Animals using tools designed for humans"
 categories: articles
 tags: [Recycling, Cat, Raven, Crow, Leash, Orangutan]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: feature.jpg
 comments: true
 share: true
 ---
