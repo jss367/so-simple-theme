@@ -48,7 +48,7 @@ Two, we are in an era where we have new things. If a researcher spends 30 years 
 
 
 
-In fact, I think there are things we could *only* learn by this method. If 1 in 4 cats could pass the mirror test (see the [mirror page]() for more details on the mirror test), I would expect scientists to be able to find this. But that's not necessarily true. We've seen varying percentages able to pass the test in a variety of animals. X percent of chimps and Y percent of elephants can. I don't see any reason to think that some animals couldn't be rarer, even much rarer. Maybe one in a million cats can pass? How would we ever find that within the confines of carefully controlled experiments? I don't think we can.
+In fact, I think there are things we could *only* learn by this method. If 1 in 4 cats could pass the mirror test (see the [mirror page](https://animalsusingtools.com/articles/mirrors/) for more details on the mirror test), I would expect scientists to be able to find this. But that's not necessarily true. We've seen varying percentages able to pass the test in a variety of animals. X percent of chimps and Y percent of elephants can. I don't see any reason to think that some animals couldn't be rarer, even much rarer. Maybe one in a million cats can pass? How would we ever find that within the confines of carefully controlled experiments? I don't think we can.
 
 
 I'm not pretending these are a "random sample". This isn't a randomized control trial. In particular, because it's not random, not controlled, and not a trial. So it fails on all three!
