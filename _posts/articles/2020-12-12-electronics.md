@@ -2,7 +2,7 @@
 layout: post
 title: Electronics
 excerpt: "Computers and Smartphones"
-categories: articles
+categories: pages
 tags: [Cat, Bird, Sheep, Dog]
 image:
   feature: feature.jpg
