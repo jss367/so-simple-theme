@@ -2,7 +2,7 @@
 layout: post
 title: Manipulating Other Animals
 excerpt: "Do you need a theory of mind to manipulate other animals?"
-categories: articles
+categories: pages
 tags: [Cat]
 image:
   feature: feature.jpg

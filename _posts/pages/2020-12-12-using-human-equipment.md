@@ -2,7 +2,7 @@
 layout: post
 title: Human Equipment
 excerpt: "Animals using tools designed for humans"
-categories: articles
+categories: pages
 tags: [Recycling, Cat, Raven, Crow, Leash, Orangutan]
 image:
   feature: feature.jpg

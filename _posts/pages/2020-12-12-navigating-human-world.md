@@ -2,7 +2,7 @@
 layout: post
 title: Navigating a Human World
 excerpt: "All the things needed to navigate a human-shaped world. Using public transit, picking up trash, crossing the street, etc."
-categories: articles
+categories: pages
 tags: [Pigeon, Deer, Crow, Dog]
 image:
   feature: feature.jpg

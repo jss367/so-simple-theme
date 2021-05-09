@@ -2,7 +2,7 @@
 layout: post
 title: Body Parts
 excerpt: "Using ones own body doesn't count as a tool, but isn't it interesting to see animals using body parts in innovative ways?"
-categories: articles
+categories: pages
 tags: [Bird, Spider]
 image:
   feature: feature.jpg

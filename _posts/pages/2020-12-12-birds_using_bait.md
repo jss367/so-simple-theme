@@ -2,7 +2,7 @@
 layout: post
 title: Using Bait
 excerpt: "Birds laying bait to attract fish"
-categories: articles
+categories: pages
 tags: [Bird]
 image:
   feature: feature.jpg

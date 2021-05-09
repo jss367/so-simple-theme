@@ -2,7 +2,7 @@
 layout: post
 title: Natural tools
 excerpt: "Using nature's tools"
-categories: articles
+categories: pages
 tags: [Octopus, Bird]
 image:
   feature: feature.jpg
