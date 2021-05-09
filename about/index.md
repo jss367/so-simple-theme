@@ -3,9 +3,7 @@ layout: page
 title: Animals Using Tools
 excerpt: "What is this website and why is it here?"
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: feature.jpg
 ---
 
 Looking for a site that hosts **videos of animals using tools**? Well, you came to the right place! Looking for something else? Then this site is probably not for you.
