@@ -3,7 +3,7 @@ layout: post
 title: Editor's Picks
 excerpt: "My favorites!"
 categories: pages
-tags: [Object Permanence, Dog, Cat]
+tags: [Bird, Cat, Dog, Elephant, Orangutan]
 image:
   feature: feature.jpg
 comments: true
