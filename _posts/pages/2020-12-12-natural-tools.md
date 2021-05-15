@@ -41,3 +41,7 @@ This is the only instance of a seabird using a tool that I'm aware of.
 Maybe I should move this to a human tool, but it's basically using the pasta as a stick.
 
 <img src='https://github.com/jss367/antools/blob/gh-pages-2.3.4/assets/images/natural_tools/parrot_pasta_scratch.gif?raw=true' />
+
+## Magpie using rocks to displace water
+
+<img src='https://github.com/jss367/antools/blob/gh-pages-2.3.4/assets/images/natural_tools/magpie_water_displacement.gif?raw=true' />
