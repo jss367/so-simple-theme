@@ -15,6 +15,8 @@ Angler fish do not, but I'm not including the use of body parts as tools.
 
 ## Herons
 
+The are enough examples of this that there is no doubt in my mind that these are intentional behaviors. However, that still doesn't answer the question how whether they are the result of instinct or reasoning. And, of course, what does "reasoning" mean for a heron? How different is it than the reasoning we experience?
+
 #### Black-crowned Night Heron
 
 <img src='https://github.com/jss367/antools/blob/gh-pages-2.3.4/assets/images/bait/BlackCrownedNightHeronUsingBait3.gif?raw=true' />
