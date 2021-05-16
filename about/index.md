@@ -26,7 +26,7 @@ Sure, it would be nice to have these in a scientific environment with double-bin
 
 When we say "animal X can pass the mirror test", that means at least one member of that species can verifiably do it. It's never the case that all members of a species can (including humans - severely autistic people do not show signs of self-recognition, for example).
 
-Some research has shown that (75 percent of chimps](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajp.1350100202) and Y percent of elephants can. I don’t see any reason to think that some animals couldn’t be rarer, even much rarer. Maybe one in a million cats can pass? How would we ever find that within the confines of carefully controlled experiments? I don’t think we can.
+Some research has shown that (75 percent of young adult chimps (ages 8-15, which wasthe highest of any age range)](https://pubmed.ncbi.nlm.nih.gov/8112048/) and only 1 out of 3 asiatic elephants tested passed. I don’t see any reason to think that some animals couldn’t be rarer, even much rarer. Maybe one in a million cats can pass? How would we ever find that within the confines of carefully controlled experiments? I don’t think we can.
 
 There are other reasons to be cautious about the crowd-sourced approach. Sometimes it’s easier to convince yourself that something is working. For example, the soundboard videos, in my opinion, are not conclusive. I find in these videos that the humans often respond to everything that dog says as if it’s intentional, but it’s not at all clear to me that it is. The question of whether dogs can understand soundboards would benefit from a rigorously controlled experiment. This is the kind of thing that would benefit from a controlled experiment. But that’s not true in all cases. You know need to be an expert to conclude, after watching [chimpanzees look in the mirror](https://animalsusingtools.com/pages/mirrors/), that they are definitely aware that they are seeing a reflection.
 
@@ -36,6 +36,10 @@ This is a collection of videos (and some pictures) of animals using tools (and o
 I don’t do anything to determine their authenticity; I just grab them from wherever I see them online Possibly, some of these clips are fake. In general, I think the vast majority are real, but others could disagree. I’m also going off of lots of videos, not just one.
 
 Enjoy!
+
+We need to be careful not to conclude too much (especially in the negative) or fail to learn as much as we can.
+
+It's easy to make a straw man out of these tests. "Well, some moles are blind so I guess they can never be self-aware." No, that's not what anyone is saying. This test can work with some cases and will not in others. We just have to accept that and continue to think of other ways to probe at the question of self-awareness.
 
 But I think there is a lot we can learn from these videos. And while some are funny, or cute, or warm your heart, they are also interesting.
 And as much time as I -or anyone - can spend with animals, there’s still a plethora of clips online that people have recorded of animals using tools. Someone finds their cat reacting to its reflection in the mirror and makes a funny video. I think we can learn a lot from this world. All of a sudden, we are in a world where everyone has a camera at the ready and there are billions of interactions. There are billions of people in the world, having billions of interactions with billions of animals, capturable on billions of cameras and smartphones. Let learn something from all of this.
