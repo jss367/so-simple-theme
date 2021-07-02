@@ -13,6 +13,9 @@ share: true
 
 This is really more screens/computers, not electronics. For example, turning on AC doesn't go here
 
+<b>Table of contents</b>
+* TOC
+{:toc}
 
 <iframe src='//gifs.com/embed/gorilla-smart-phone-p8JgBV' frameborder='0' scrolling='no' width='640px' height='1138px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
