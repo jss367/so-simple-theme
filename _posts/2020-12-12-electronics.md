@@ -17,7 +17,6 @@ This is really more screens/computers, not electronics. For example, turning on 
 * TOC
 {:toc}
 
-<iframe src='//gifs.com/embed/gorilla-smart-phone-p8JgBV' frameborder='0' scrolling='no' width='640px' height='1138px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
 <iframe src='//gifs.com/embed/cat-watching-ipad-ANvnWl' frameborder='0' scrolling='no' width='720px' height='720px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
@@ -25,6 +24,16 @@ This is really more screens/computers, not electronics. For example, turning on 
 
 This more to this gif I have but I only uploaded 20 seconds at the moment
 <iframe src='//gifs.com/embed/71g6Jy' frameborder='0' scrolling='no' width='384px' height='480px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+
+
+
+## Gorilla Directing Person to Use Smartphone
+
+<img src='https://github.com/jss367/antools/blob/gh-pages-2.3.4/assets/images/human_tools/bird_using_smart_phone.gif?raw=true' />
+
+<iframe src='//gifs.com/embed/gorilla-smart-phone-p8JgBV' frameborder='0' scrolling='no' width='640px' height='1138px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+
+I like to think that the guy is showing the gorilla some females and he's selecting through them, although it's not easy to tell what's on the screen.
 
 
 ## Bird Using Smart Phone
