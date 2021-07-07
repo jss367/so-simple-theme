@@ -28,9 +28,9 @@ share: true
 
 <iframe src='//gifs.com/embed/crow-r8L0X2' frameborder='0' scrolling='no' width='360px' height='360px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
-Leashes:
+## Leashes
 
-Leashes are another thing where dogs often don't seem to understand, and if they get it tangled around a tree they can be helpless. But in this case, this dog seems to understand.
+Leashes are another thing where dogs often don't seem to understand, and if they get it tangled around a tree they can be helpless. But in this case, this dog seems to understand. My dog, and many other dogs I've seen, are absolutely helpless when a leash gets caught around something. I've never seen a dog figure out how to unwind itself. At least this one has figure out that it can pull a cat with a leash.
 
 <iframe src='//gifs.com/embed/ROQgBO' frameborder='0' scrolling='no' width='720px' height='1276px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
@@ -43,6 +43,12 @@ I like this one because it shows that it knows to turn it off... I'm curious if 
 
 
 <img src='https://github.com/jss367/antools/blob/gh-pages-2.3.4/assets/images/human_tools/monkey_turning_off_faucet.gif?raw=true' />
+
+## Gorilla Using View-Master
+
+<img src='https://github.com/jss367/antools/blob/gh-pages-2.3.4/assets/images/human_tools/koko_view-master.gif?raw=true' />
+
+This is Koko, perhaps the most famous gorilla. His behavior is the result of years of training and interacting with humans, so while it doesn't show natural behavior, it does show what they are able to learn.
 
 ## Raven Snowboarding
 
@@ -110,19 +116,19 @@ This one seems sped up. Will have to double check.
 <img src='https://github.com/jss367/antools/blob/gh-pages-2.3.4/assets/images/human_tools/dog_taking_care_of_patient.gif?raw=true' />
 
 
-Unscrewing lids:
+## Unscrewing lids
 
 Note: there's more to this one as well, but I only uploaded 20 seconds of it.
 
 <iframe src='//gifs.com/embed/BNwgEk' frameborder='0' scrolling='no' width='360px' height='360px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
-Jenga:
+## Jenga
 
 This one is much longer... I'll upload the rest at some point
 
 <iframe src='//gifs.com/embed/zvWmOO' frameborder='0' scrolling='no' width='384px' height='480px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
-
+This is a very famous dog. Worth following on instagram.
 
 ## Cat door knocker
 
