@@ -29,7 +29,7 @@ This more to this gif I have but I only uploaded 20 seconds at the moment
 
 ## Gorilla Directing Person to Use Smartphone
 
-<img src='https://github.com/jss367/antools/blob/gh-pages-2.3.4/assets/images/human_tools/bird_using_smart_phone.gif?raw=true' />
+<img src='https://github.com/jss367/antools/blob/gh-pages-2.3.4/assets/images/human_tools/gorilla_tinder.gif?raw=true' />
 
 <iframe src='//gifs.com/embed/gorilla-smart-phone-p8JgBV' frameborder='0' scrolling='no' width='640px' height='1138px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
